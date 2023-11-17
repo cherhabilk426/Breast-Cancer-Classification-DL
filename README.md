@@ -1,2 +1,2 @@
 # Breast-Cancer-Classification-DL
-# Official Code for Enhancing Breast Cancer Classification Using Deep Learning and Spectral Analysis 
+# The official code for enhancing breast cancer classification using deep learning and spectral analysis will be published soon.
